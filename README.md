@@ -1,7 +1,7 @@
 <h1 align="center">Olho Alerta - Back-End</h1>
 
 <h1 align="center">
-    <img alt="Happy" title="src/assets/Tela.png" src="src/assets/Tela.png" />
+    <img alt="Happy" title="src/assets/Tela.png" src="src/Tela.png" />
 </h1>
 
 ## Tecnologias 🚀
